@@ -1,0 +1,1369 @@
+{
+  "publications": [
+    {
+      "id": "diversification-of-brics-bloc",
+      "type": "Article",
+      "vertical": "Economics",
+      "title": "Diversification of the BRICS Bloc: From Emerging Global Economies to India’s Autonomy",
+      "summary": "An examination of BRICS expansion, economic resilience, financial cooperation, digital public infrastructure, sustainability, and India’s pursuit of greater strategic and economic autonomy.",
+      "author": "Shreya Mahajan",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/Article/Diversification%20of%20The%20BRICS%20Bloc.png",
+      "file": "/src/data/Publication/Articles/Diversification%20of%20The%20BRICS%20Bloc.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "brics-transition-sustainability",
+      "type": "Article",
+      "vertical": "Economics",
+      "title": "The BRICS Transition: Journey From Economic Cooperation Towards Sustainability",
+      "summary": "A look at BRICS’ evolution from economic cooperation towards climate resilience and sustainable development, highlighting India’s role in advancing a green and inclusive global agenda.",
+      "author": "Shreya Mahajan",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/Article/The%20BRICS%20Transition%20Journey%20from%20economic%20cooperation%20towards%20sustainability.png",
+      "file": "/src/data/Publication/Articles/The%20BRICS%20Transition%20Journey%20from%20economic%20cooperation%20towards%20sustainability.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "indus-waters-treaty",
+      "type": "Article",
+      "vertical": "Governance",
+      "title": "The Politics of the Indus",
+      "summary": "An examination of water, security, and international law in India–Pakistan relations, tracing the Indus Waters Treaty from 1960 to the contemporary dispute over its implementation.",
+      "author": "Sahana",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/Article/THE%20INDUS%20WATERS%20TREATY%20DISPUTE.png",
+      "file": "/src/data/Publication/Articles/THE%20INDUS%20WATERS%20TREATY%20DISPUTE.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "politics-of-drawing-the-world",
+      "type": "Article",
+      "vertical": "Governance",
+      "title": "The Politics of Drawing the World",
+      "summary": "An exploration of how world map projections distort size, shape, distance, and direction, and how cartographic choices influence our understanding of global geography.",
+      "author": "Sanskar Bajaj",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/Article/The%20Politics%20of%20Drawing%20the%20world.png",
+      "file": "/src/data/Publication/Articles/The%20Politics%20of%20Drawing%20the%20world.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "when-nature-loses-we-lose-too",
+      "type": "Article",
+      "vertical": "Environment",
+      "title": "When Nature Loses, We Lose Too",
+      "summary": "A reflection on the importance of SDG 15, the protection of land and biodiversity, and the need to integrate environmental conservation with development and community livelihoods.",
+      "author": "Sanskar Bajaj",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/Article/when%20nature%20loses,%20we%20lose%20too.png",
+      "file": "/src/data/Publication/Articles/when%20nature%20loses,%20we%20lose%20too.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "armed-but-unstable",
+      "type": "Article",
+      "vertical": "Governance",
+      "title": "Armed But Unstable: Pakistan’s Dangerous Military Path",
+      "summary": "An analysis of Pakistan’s growing military control, the concentration of authority, and the risks that institutional weakness, political instability, and nuclear posturing pose to regional security.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/Article/Armed%20But%20Unstable.png",
+      "file": "/src/data/Publication/Articles/Armed%20But%20Unstable.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "brics-summit-2026",
+      "type": "Issue Brief",
+      "vertical": "Governance",
+      "title": "BRICS Summit 2026: India's Leadership & Its Role in West Asia",
+      "summary": "An overview of the 18th BRICS Summit held in New Delhi, examining India's chairship priorities, economic and technological cooperation, energy security, diplomatic engagement, and the strategic significance of BRICS in the context of West Asia.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/IssueBrief/BRICS_Summit_2026_India_Leadership.png",
+      "file": "/src/data/Publication/Briefs/IssueBriefs/BRICS_Summit_2026_India_Leadership.pptx",
+      "fileType": "PPT"
+    },
+    {
+      "id": "india-china-border-talks",
+      "type": "Issue Brief",
+      "vertical": "Governance",
+      "title": "India–China Border Talks: 36th WMCC Meeting",
+      "summary": "An overview of the 36th Working Mechanism for Consultation and Coordination meeting held in New Delhi, focusing on border management, peace and stability along the LAC, and India's approach of combining firm security with sustained diplomatic engagement.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/IssueBrief/India_China_Border_Talks.png",
+      "file": "/src/data/Publication/Briefs/IssueBriefs/India_China_Border_Talks%20(2).pptx",
+      "fileType": "PPT"
+    },
+    {
+      "id": "india-france-relations",
+      "type": "Issue Brief",
+      "vertical": "Governance",
+      "title": "India–France Relations: A Stronger Partnership",
+      "summary": "An examination of India's expanding Special Global Strategic Partnership with France, covering defence, AI and technology, space, innovation, climate action, trade, and cultural cooperation.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/IssueBrief/India_France_Creative_5_Slide_PPT_.png",
+      "file": "/src/data/Publication/Briefs/IssueBriefs/India_France_Creative_5_Slide_PPT_.pptx",
+      "fileType": "PPT"
+    },
+    {
+      "id": "india-gdp-growth",
+      "type": "Issue Brief",
+      "vertical": "Economics",
+      "title": "India's GDP Growth: Strong Growth Despite Global Uncertainty",
+      "summary": "An economic update on India's Q1 FY2026–27 growth, examining the performance of investment, manufacturing, services, construction, and the digital economy, alongside challenges from agriculture, mining, oil prices, and geopolitical risks.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/IssueBrief/India_GDP_Growth.png",
+      "file": "/src/data/Publication/Briefs/IssueBriefs/India_GDP_Growth.pptx",
+      "fileType": "PPT"
+    },
+    {
+      "id": "indias-growing-role-global-politics",
+      "type": "Issue Brief",
+      "vertical": "Governance",
+      "title": "India's Growing Role in Global Politics",
+      "summary": "An overview of India's evolving geopolitical role amid changing alliances, West Asia tensions, China's growing influence, and the Mecca Pact, highlighting India's multi-alignment strategy and expanding partnerships across regions.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/IssueBrief/India_Geopolitics.png",
+      "file": "/src/data/Publication/Briefs/IssueBriefs/India_Geopolitics.pptx",
+      "fileType": "PPT"
+    },
+    {
+      "id": "india-rejects-china-arunachal-claims",
+      "type": "Issue Brief",
+      "vertical": "Governance",
+      "title": "India Rejects China's Claims Over Arunachal Pradesh",
+      "summary": "An analysis of India's decision to identify 27 places in Arunachal Pradesh using standard Indian names on official maps, examining China's renaming campaign and India's position on sovereignty and territorial integrity.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/IssueBrief/India_Rejects_China_Claims_Arunachal_Pradesh.png",
+      "file": "/src/data/Publication/Briefs/IssueBriefs/India_Rejects_China_Claims_Arunachal_Pradesh.pptx",
+      "fileType": "PPT"
+    },
+    {
+      "id": "mecca-pact-india-strategic-response",
+      "type": "Issue Brief",
+      "vertical": "Governance",
+      "title": "Mecca Pact and India's Strategic Response",
+      "summary": "An overview of the Saudi Arabia–Pakistan–Türkiye collective defence agreement and its implications for India's energy, trade, shipping, regional security, and multi-alignment strategy.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/IssueBrief/mecca_pact_india.png",
+      "file": "/src/data/Publication/Briefs/IssueBriefs/mecca_pact_india.pptx",
+      "fileType": "PPT"
+    },
+    {
+      "id": "bankers-books-evidence-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Governance",
+      "title": "The Bankers’ Books Evidence Bill, 2026",
+      "summary": "Updates banking evidence rules by recognizing digital and cloud records and standardizing certification procedures.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Bankers_Books_Bill_Brief.pdf.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Bankers_Books_Bill_Brief.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "constitution-131st-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Governance",
+      "title": "The Constitution (131st Amendment) Bill, 2026",
+      "summary": "Proposes more Lok Sabha seats, delimitation based on the 2011 Census, and earlier implementation of women’s reservation.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Delimitation_Bill.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Delimitation_Bill_2026_Slides.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "income-tax-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Economy",
+      "title": "The Income-tax (Amendment) Bill, 2026",
+      "summary": "Provides tax exemptions for eligible foreign investors in government securities to encourage investment in India’s bond market.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Income_Tax_Amendment.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Income_Tax_Amendment_Bill_2026_Slides.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "appropriation-no-3-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Governance",
+      "title": "The Appropriation (No. 3) Bill, 2026",
+      "summary": "Seeks Parliament’s approval to regularize excess government expenditure incurred during 2022–23.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Appropriation_Bill_2026_Slides.pdf.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Appropriation_Bill_2026_Slides.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "registration-of-births-and-deaths-bill",
+      "type": "Bill Brief",
+      "vertical": "Governance",
+      "title": "The Registration of Births and Deaths",
+      "summary": "Strengthens civil registration through a centralized database, digital certificates, and improved data integration.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Bill_Brief.pdf.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Bill_Brief.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "corporate-laws-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Economy",
+      "title": "The Corporate Laws (Amendment) Bill, 2026",
+      "summary": "Simplifies corporate compliance, decriminalises minor offences, and proposes changes to governance, CSR, mergers, and corporate regulation.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Corporate_Laws_Bill_2026_Slides.pdf.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Corporate_Laws_Bill_2026_Slides.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "public-examinations-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Governance",
+      "title": "The Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026",
+      "summary": "Strengthens the 2024 Act with stricter penalties, Special Task Forces, Fast-Track Courts, and time-bound investigations and trials.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/PUBLIC%20EXAMINATIONS.pdf.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/PUBLIC_EXAMINATIONS.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "taxation-other-laws-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Economy",
+      "title": "The Taxation and Other Laws (Amendment) Bill, 2026",
+      "summary": "Amends tax laws to address implementation issues, simplify compliance, improve tax administration, and support the digital payments ecosystem.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Taxation_Bill_2026_Slides.pdf.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Taxation_Bill_2026_Slides.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "supreme-court-number-of-judges-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Judiciary",
+      "title": "The Supreme Court (Number of Judges) Amendment Bill, 2026",
+      "summary": "Increases the Supreme Court's sanctioned strength from 33 to 37 judges, raising the total strength including the Chief Justice to 38.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Supreme_Court_Judges.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/The%20Supreme%20Court%20(Number%20of%20Judges)%20Amendment,%20Bill.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "tribunal-reforms-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Judiciary",
+      "title": "The Tribunal Reforms Bill, 2026",
+      "summary": "Proposes an independent National Tribunals Commission to oversee tribunal administration, appointments, infrastructure, and service conditions.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Tribunal_Reforms.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Tribunal_Reforms_Bill_2026_Slides.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "prevention-of-insults-national-honour-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Governance",
+      "title": "The Prevention of Insults to National Honour (Amendment) Bill, 2026",
+      "summary": "Extends statutory protection to Vande Mataram and makes intentional disruption of its singing a punishable offence.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Vande_Mataram.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Vande_Mataram_Bill_2026_Slides.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "indian-statistical-institute-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Education & Research",
+      "title": "The Indian Statistical Institute Bill, 2026",
+      "summary": "Replaces the 1959 Act with a modern framework for ISI, expanding its focus to data science, AI, research, education, and stronger governance.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/ISI_Bill.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/ISI_Bill_2026_Slides.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "mines-and-minerals-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Economy",
+      "title": "The Mines and Minerals (Development and Regulation) Amendment Bill, 2026",
+      "summary": "Restricts State levies on mineral rights and mineral-bearing land while introducing a more uniform taxation framework for the mining sector.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/Mines_and_Minerals.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/Mines_and_Minerals_Amendment_Brief.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "msme-development-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "MSME & Start-ups",
+      "title": "The Micro, Small, and Medium Enterprises Development (Amendment) Bill, 2026",
+      "summary": "Aims to reduce payment delays, simplify compliance, strengthen Udyam registration, and improve online dispute resolution for MSMEs.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/MSME_Bill.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/MSME_Bill_Brief.pdf",
+      "fileType": "PDF"
+    },
+    {
+      "id": "national-cooperative-development-corporation-amendment-bill-2026",
+      "type": "Bill Brief",
+      "vertical": "Economy",
+      "title": "The National Co-operative Development Corporation (Amendment) Bill, 2026",
+      "summary": "Enables PACS and cooperative institutions to access loans and financial assistance directly from NCDC, strengthening cooperative financing.",
+      "author": "",
+      "displayDate": "",
+      "image": "/src/assets/images/Publications/briefs/BillBrief/MonsoonSession2026/NCDC_Bill.png",
+      "file": "/src/data/Publication/Briefs/BillBriefs/MonsoonSeason20206/NCDC_Bill_Brief_Infographic.pdf",
+      "fileType": "PDF"
+    }
+  ],
+  "initiatives": {
+    "programs": {
+      "title": "Programs",
+      "eyebrow": "Our Work",
+      "lead": "Youth-led programmes designed to create meaningful social impact.",
+      "intro": "Our programmes focus on empowering young people through participation, leadership and community engagement.",
+      "image": "/src/assets/images/Initiatives/Khelo_India_Para_Games_2025/image2.jpg",
+      "linkToEvents": false,
+      "items": [
+        {
+          "title": "Khelo India Para Games 2025",
+          "slug": "khelo-india-para-games-2025",
+          "tag": "Sports & Inclusion",
+          "image": "/src/assets/images/Initiatives/Khelo_India_Para_Games_2025/image2.jpg",
+          "description": "Promoting inclusion, participation and opportunities for young athletes through sport.",
+          "details": {
+            "eyebrow": "Program",
+            "title": "Khelo India Para Games 2025",
+            "lead": "Celebrating sporting excellence, inclusion and the determination of young athletes.",
+            "date": "March 2025",
+            "location": "New Delhi, India",
+            "category": "Sports & Inclusion",
+            "participants": "Young athletes, volunteers and community members",
+            "status": "Completed",
+            "overview": [
+              "Youth of Bharat Foundation (YOBHA) took an active initiative to connect KV Gole Market students with the spirit of national-level sports by facilitating their visit to the Indira Gandhi Stadium during the Khelo India Para Games 2025",
+              "YOBHA created an opportunity for students to engage in activities, participate in games, and experience the energy and inclusivity of a major sporting event. The initiative helped students develop greater interest in sports while promoting fitness, confidence, teamwork, and an appreciation for para-athletes and inclusive sporting excellence.",
+              "Through this initiative, YOBHA demonstrated its commitment to providing young people with meaningful exposure, opportunities, and experiences beyond the classroom, inspiring them to participate, explore their potential, and contribute to a stronger and more active India."
+            ],
+            "impact": [
+              "Promoted inclusive participation in sports",
+              "Encouraged youth volunteering",
+              "Raised awareness about accessibility",
+              "Supported community engagement",
+              "Promoted equal opportunities"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/Khelo_India_Para_Games_2025/image2.jpg",
+              "/src/assets/images/Initiatives/Khelo_India_Para_Games_2025/image3.jpg",
+              "/src/assets/images/Initiatives/Khelo_India_Para_Games_2025/image4.jpg",
+              "/src/assets/images/Initiatives/Khelo_India_Para_Games_2025/image5.jpg",
+              "/src/assets/images/Initiatives/Khelo_India_Para_Games_2025/image6.jpg",
+              "/src/assets/images/Initiatives/Khelo_India_Para_Games_2025/image7.jpg"
+            ]
+          }
+        },
+        {
+          "title": "Hindu Nav Varsh Mahotsav 2025",
+          "slug": "hindu-nav-varsh-mahotsav-2025",
+          "tag": "Culture & Youth",
+          "image": "/src/assets/images/Initiatives/Hindu_Nav_Varsh_Mahotsav_2025/image1.jpg",
+          "description": "Celebrating India's cultural heritage while bringing young people together.",
+          "details": {
+            "eyebrow": "Program",
+            "title": "Hindu Nav Varsh Mahotsav 2025",
+            "lead": "Celebrating culture, heritage and youth participation.",
+            "date": "March 2025",
+            "location": "New Delhi, India",
+            "category": "Culture & Youth",
+            "participants": "Youth volunteers and community members",
+            "status": "Completed",
+            "overview": [
+              "Youth of Bharat Foundation (YOBHA) organised and facilitated the Hindu Nav Varsh Mahotsav 2025 at Jawaharlal Nehru University (JNU), Delhi, creating a dedicated platform for young people to celebrate India’s cultural heritage and civilisational values.",
+              "YOBHA brought together students and youth through cultural performances, interactive activities, and inspiring conversations, encouraging meaningful participation in the celebration of Hindu Nav Varsh. The initiative was designed to strengthen young people’s connection with Sanatan Sanskriti, Indian traditions, and cultural identity.",
+              "Through the Mahotsav, YOBHA demonstrated its commitment to youth-led cultural engagement, providing young Indians with opportunities to celebrate, learn, participate, and take ownership of India’s rich heritage."
+            ],
+            "impact": [
+              "Youth participation",
+              "Cultural awareness",
+              "Community engagement",
+              "Heritage promotion"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/Hindu_Nav_Varsh_Mahotsav_2025/image1.jpg"
+            ]
+          }
+        },
+        {
+          "title": "Civil Defence Volunteer Registration Drive",
+          "slug": "civil-defence-volunteer-registration-drive",
+          "tag": "Civic Engagement & National Service",
+          "image": "/src/assets/images/Initiatives/CivilDefenceVolunteer/image2.jpg",
+          "description": "Mobilising young people for civic participation, community safety and disaster preparedness.",
+          "details": {
+            "eyebrow": "Awareness Drive",
+            "title": "Civil Defence Volunteer Registration Drive",
+            "lead": "Empowering youth to contribute to community safety, emergency preparedness and nation-building.",
+            "date": "2025",
+            "location": "Miranda House, University of Delhi, New Delhi",
+            "category": "Civic Engagement & National Service",
+            "participants": "Students and youth volunteers",
+            "status": "Completed",
+            "overview": [
+              "Youth of Bharat Foundation (YOBHA), in collaboration with the Ministry of Youth Affairs & Sports, engaged students at Miranda House, University of Delhi, through a dedicated Civil Defence Volunteer registration initiative.",
+              "YOBHA's team mobilised students, facilitated registrations, guided participants through the enrolment process, and encouraged young people to take responsibility for national service and disaster preparedness.",
+              "The initiative transformed student enthusiasm into meaningful civic participation, creating opportunities for youth to contribute to community safety, emergency response, resilience, and nation-building.",
+              "Through such on-ground interventions, YOBHA continues to connect young Indians with opportunities to serve their communities and strengthen the nation."
+            ],
+            "impact": [
+              "Youth mobilisation",
+              "Civic participation",
+              "Disaster preparedness",
+              "Community safety"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/CivilDefenceVolunteer/image2.jpg",
+              "/src/assets/images/Initiatives/CivilDefenceVolunteer/image1.jpg",
+              "/src/assets/images/Initiatives/CivilDefenceVolunteer/image3.jpg",
+              "/src/assets/images/Initiatives/CivilDefenceVolunteer/image4.jpg",
+              "/src/assets/images/Initiatives/CivilDefenceVolunteer/image5.jpg"
+            ]
+          }
+        },
+        {
+          "title": "International Yoga Day 2025",
+          "slug": "international-yoga-day-2025",
+          "tag": "Fitness & Well-Being",
+          "image": "/src/assets/images/Initiatives/InternationalYogaDay2025/image1.jpg",
+          "description": "Promoting yoga, fitness and mindful living among young students through active participation.",
+          "details": {
+            "eyebrow": "Event",
+            "title": "International Yoga Day 2025",
+            "lead": "Promoting fitness, discipline, mindfulness and holistic well-being among young people.",
+            "date": "21 June 2025",
+            "location": "KV Gole Market, New Delhi, India",
+            "category": "Fitness & Well-Being",
+            "participants": "Students and youth participants",
+            "status": "Completed",
+            "overview": [
+              "On 21 June 2025, Youth of Bharat Foundation (YOBHA) engaged with the students of KV Gole Market to mark International Yoga Day 2025, creating an opportunity for young students to experience the benefits of yoga, fitness, and mindful living.",
+              "YOBHA facilitated student participation, encouraged regular physical activity, and promoted yoga as a means of building discipline, focus, strength, and overall well-being.",
+              "The students demonstrated various yoga practices, bringing energy and enthusiasm to the celebration while highlighting the importance of maintaining a healthy and balanced lifestyle.",
+              "Through this initiative, YOBHA strengthened its commitment to youth fitness and holistic development, inspiring young Indians to embrace healthier lifestyles and the values of balance, discipline, and unity."
+            ],
+            "impact": [
+              "Youth fitness",
+              "Physical well-being",
+              "Mindfulness",
+              "Holistic development"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/InternationalYogaDay2025/image1.jpg",
+              "/src/assets/images/Initiatives/InternationalYogaDay2025/image2.jpg",
+              "/src/assets/images/Initiatives/InternationalYogaDay2025/image3.jpg"
+            ]
+          }
+        },
+        {
+          "title": "Nasha Mukt Yuva for Viksit Bharat @2047",
+          "slug": "nasha-mukt-yuva-for-viksit-bharat-2047-varanasi",
+          "tag": "Youth Awareness & Nation-Building",
+          "image": "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image3.jpg",
+          "description": "Mobilising youth for a healthy, empowered and drug-free India through awareness, fitness and community action.",
+          "details": {
+            "eyebrow": "Campaign",
+            "title": "Nasha Mukt Yuva for Viksit Bharat @2047",
+            "lead": "Building awareness, promoting fitness and empowering young people to contribute to a drug-free Bharat.",
+            "date": "18–20 July 2025",
+            "location": "Varanasi, Uttar Pradesh, India",
+            "category": "Youth Awareness & Nation-Building",
+            "participants": "Youth representatives, volunteers and community participants",
+            "status": "Completed",
+            "overview": [
+              "Youth of Bharat Foundation (YOBHA) actively participated in the Nasha Mukt Yuva for Viksit Bharat @2047 Youth Spiritual Summit held in Varanasi from 18 to 20 July 2025, joining a national movement focused on building a healthy, conscious, empowered and drug-free youth population.",
+              "The three-day programme, organised under the Ministry of Youth Affairs & Sports through MY Bharat, brought together young representatives from spiritual, socio-cultural and youth organisations at the Rudraksh International Cooperation and Convention Centre. The summit focused on understanding addiction, strengthening youth-led outreach, and developing a roadmap towards a drug-free India by 2047.",
+              "YOBHA's team actively contributed to the campaign through youth mobilisation, awareness-building and participation in the anti-drug movement. The team engaged with young leaders, volunteers and organisations working towards a Nasha Mukt Bharat and strengthened collective efforts for youth empowerment.",
+              "As part of the campaign, the YOBHA team participated in the Fit India Sundays on Cycle initiative at Banaras Hindu University (BHU) on 20 July. The cycling drive connected the message of a drug-free India with fitness, discipline and purposeful living.",
+              "During the Varanasi visit, the YOBHA team also visited the Banaras Hindu University campus, interacted with students and volunteers, and connected with the campus youth ecosystem. These engagements created opportunities for dialogue around student issues, youth-led initiatives and community action.",
+              "The programme concluded with the adoption of the Kashi Declaration, a youth-led framework calling for coordinated action involving spiritual organisations, educational institutions, government bodies and civil society to strengthen prevention, awareness, rehabilitation and community mobilisation against substance abuse.",
+              "Through its participation in the Varanasi initiative, YOBHA strengthened its engagement with national youth programmes, promoted fitness and awareness, and contributed to the broader mission of building a Nasha Mukt Bharat."
+            ],
+            "impact": [
+              "Youth awareness",
+              "Drug-free India movement",
+              "Fitness & healthy living",
+              "Youth mobilisation",
+              "Community engagement",
+              "Nation-building"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image3.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image1.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image2.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image4.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image5.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image6.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image7.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image8.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image9.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image10.jpg",
+              "/src/assets/images/Initiatives/NashaMuktYuvaViksitBharat2047/image11.jpg"
+            ]
+          }
+        },
+        {
+          "title": "Bihar Food Drive",
+          "slug": "bihar-food-drive",
+          "tag": "Community Service & Relief",
+          "image": "/src/assets/images/Initiatives/BiharFoodDrive/image1.jpg",
+          "description": "Spreading smiles and supporting families in need through grassroots food distribution.",
+          "details": {
+            "eyebrow": "Relief Operation",
+            "title": "Bihar Food Drive",
+            "lead": "Spreading smiles and strengthening communities through compassion and grassroots service.",
+            "date": "14 May 2025",
+            "location": "Bawangama, Sitamarhi, Bihar, India",
+            "category": "Community Service & Relief",
+            "participants": "Local families, community members and YOBHA volunteers",
+            "status": "Completed",
+            "overview": [
+              "On 14 May 2025, Youth of Bharat Foundation (YOBHA) organised a food distribution drive in Bawangama, Sitamarhi, Bihar, reaching out to families and individuals in need.",
+              "YOBHA's team and volunteers came together to distribute meals and extend support to the local community. The initiative focused not only on providing nourishment but also on strengthening the spirit of compassion and community service.",
+              "The food drive reflected YOBHA's commitment to grassroots engagement and meaningful community action, demonstrating how collective efforts can provide immediate support to people facing difficult circumstances.",
+              "Through this initiative, YOBHA reinforced its belief that meaningful change begins at the community level by standing with those in need and turning small acts of service into lasting social impact."
+            ],
+            "impact": [
+              "Community support",
+              "Food distribution",
+              "Grassroots engagement",
+              "Community service"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/BiharFoodDrive/image1.jpg",
+              "/src/assets/images/Initiatives/BiharFoodDrive/image2.jpg",
+              "/src/assets/images/Initiatives/BiharFoodDrive/image3.jpg"
+            ]
+          }
+        },
+        {
+          "title": "International Youth Day 2025: Local Youth Actions for the SDGs and Beyond",
+          "slug": "international-youth-day-2025-ananthapur",
+          "tag": "Youth Leadership & SDG Action",
+          "image": "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image1.jpg",
+          "description": "Empowering young leaders to connect grassroots action with the Sustainable Development Goals and inclusive community development.",
+          "details": {
+            "eyebrow": "Program",
+            "title": "International Youth Day 2025: Local Youth Actions for the SDGs and Beyond",
+            "lead": "Connecting local youth action with the Sustainable Development Goals and building responsible community leaders.",
+            "date": "12 August 2025",
+            "location": "MY Bharat Meeting Hall, Ananthapur, Andhra Pradesh, India",
+            "category": "Youth Leadership & SDG Action",
+            "participants": "Young leaders, educators, government representatives, youth workers and experts",
+            "status": "Completed",
+            "overview": [
+              "Youth of Bharat Foundation (YOBHA), in collaboration with MY Bharat Ananthapur, Ministry of Youth Affairs & Sports, and Pragathi Padham Youth Association, organised a vibrant celebration of International Youth Day 2025 at the MY Bharat Meeting Hall, Ananthapur.",
+              "Built around the theme 'Local Youth Actions for the SDGs and Beyond,' the programme brought together young leaders, educators, government representatives, youth workers, and experts for meaningful dialogue on youth-led action and sustainable development.",
+              "YOBHA actively contributed by bringing together youth stakeholders, facilitating participation, supporting the programme, and creating a platform for young leaders to share ideas, local solutions, and perspectives on achieving the Sustainable Development Goals.",
+              "The programme also recognised participating young leaders through Certificates of Recognition, acknowledging their contribution and commitment to youth-led development and community action.",
+              "Through this initiative, YOBHA strengthened its commitment to empowering young people, connecting grassroots action with national and global development goals, and building a generation of responsible, engaged, and impact-oriented youth leaders."
+            ],
+            "impact": [
+              "Youth mobilisation",
+              "SDG awareness",
+              "Grassroots leadership",
+              "Government–youth collaboration",
+              "Youth empowerment"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image1.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image2.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image3.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image4.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image5.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image6.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image7.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image8.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image9.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image10.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay2025AP/image11.jpg"
+            ]
+          }
+        },
+        {
+          "title": "International Youth Day 2025: Local Youth Actions for the SDGs and Beyond",
+          "slug": "international-youth-day-2025-kalwakurthy",
+          "tag": "Youth Leadership & SDG Action",
+          "image": "/src/assets/images/Initiatives/InternationalYouthDay%202025Telangana/image5.jpg",
+          "description": "Mobilising young people to turn the Sustainable Development Goals into meaningful grassroots action.",
+          "details": {
+            "eyebrow": "Program",
+            "title": "International Youth Day 2025: Local Youth Actions for the SDGs and Beyond",
+            "lead": "Mobilising young leaders to transform local challenges into meaningful action for sustainable development.",
+            "date": "12 August 2025",
+            "location": "Kalwakurthy, Telangana, India",
+            "category": "Youth Leadership & SDG Action",
+            "participants": "Young leaders, changemakers and community representatives",
+            "status": "Completed",
+            "overview": [
+              "Youth of Bharat Foundation (YOBHA), in collaboration with MY Bharat Nagarkurnool, Ministry of Youth Affairs & Sports, UN Volunteers India, and Swami Vivekananda Seva Brundam, organised and facilitated an International Youth Day 2025 celebration in Kalwakurthy, Telangana.",
+              "Built around the theme 'Local Youth Actions for the SDGs and Beyond,' the programme brought together young leaders, changemakers, and community representatives to discuss how locally driven youth initiatives can contribute to the Sustainable Development Goals and broader development priorities.",
+              "YOBHA played an active role in mobilising young participants, coordinating with partner organisations, facilitating youth engagement, and creating a platform for dialogue and exchange.",
+              "Interactive sessions encouraged participants to identify local challenges, share ideas, and explore practical ways to translate the SDGs into grassroots action. Participants were also recognised through Certificates of Recognition for their contribution to youth-led development initiatives.",
+              "Through the Kalwakurthy celebration, YOBHA strengthened its grassroots youth network and demonstrated its commitment to connecting young people with national and international development frameworks while turning youth participation into meaningful community action."
+            ],
+            "impact": [
+              "Youth mobilisation",
+              "SDG awareness",
+              "Grassroots leadership",
+              "Stakeholder collaboration",
+              "Youth-led action",
+              "Community engagement"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/InternationalYouthDay%202025Telangana/image4.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay%202025Telangana/image5.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay%202025Telangana/image1.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay%202025Telangana/image2.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay%202025Telangana/image3.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay%202025Telangana/image6.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay%202025Telangana/image7.jpg",
+              "/src/assets/images/Initiatives/InternationalYouthDay%202025Telangana/image8.jpg"
+            ]
+          }
+        },
+        {
+          "title": "Independence Day Celebration 2025: Celebrating the Spirit of Bharat",
+          "slug": "independence-day-celebration-2025-kv-gole-market",
+          "tag": "Patriotism & Nation-Building",
+          "image": "/src/assets/images/Initiatives/IndependenceDayCelebration2025KV/image1.jpg",
+          "description": "Engaging students in celebrating India's freedom, unity, civic responsibility and national progress.",
+          "details": {
+            "eyebrow": "Event",
+            "title": "Independence Day Celebration 2025: Celebrating the Spirit of Bharat",
+            "lead": "Inspiring young students to connect with the values of freedom, patriotism, civic responsibility and nation-building.",
+            "date": "15 August 2025",
+            "location": "KV Gole Market, New Delhi, India",
+            "category": "Patriotism & Nation-Building",
+            "participants": "Students and young participants",
+            "status": "Completed",
+            "overview": [
+              "Youth of Bharat Foundation (YOBHA), in collaboration with KV Gole Market, organised a special Independence Day celebration to engage students in commemorating India's journey of freedom, unity, and national progress.",
+              "YOBHA facilitated student participation, coordinated the programme, and created a platform for young students to connect with the values of patriotism, civic responsibility, and nation-building.",
+              "The celebration encouraged students to remember the sacrifices of India's freedom fighters while reflecting on their own role in shaping the nation's future.",
+              "The initiative reinforced YOBHA's commitment to connecting youth with national occasions through meaningful engagement and educational experiences, inspiring the next generation to contribute towards a stronger, united, and progressive Bharat."
+            ],
+            "impact": [
+              "Student engagement",
+              "National awareness",
+              "Patriotism",
+              "Civic responsibility",
+              "Youth participation",
+              "Nation-building"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/IndependenceDayCelebration2025KV/image1.jpg",
+              "/src/assets/images/Initiatives/IndependenceDayCelebration2025KV/image2.jpg",
+              "/src/assets/images/Initiatives/IndependenceDayCelebration2025KV/image3.jpg",
+              "/src/assets/images/Initiatives/IndependenceDayCelebration2025KV/image4.jpg",
+              "/src/assets/images/Initiatives/IndependenceDayCelebration2025KV/image5.jpg",
+              "/src/assets/images/Initiatives/IndependenceDayCelebration2025KV/image6.jpg"
+            ]
+          }
+        },
+        {
+          "title": "YOBHA–MyGov India: Strengthening Youth Outreach & Digital Engagement",
+          "slug": "yobha-mygov-india-youth-outreach-digital-engagement",
+          "tag": "Institutional Outreach & Digital Engagement",
+          "image": "/src/assets/images/Initiatives/YOBHAMyGovIndia/image2.jpg",
+          "description": "Strengthening institutional partnerships and creating new opportunities for youth participation through digital and campus engagement.",
+          "details": {
+            "eyebrow": "Project",
+            "title": "YOBHA–MyGov India: Strengthening Youth Outreach & Digital Engagement",
+            "lead": "Building stronger government–youth connections through campus outreach, digital participation and strategic collaboration.",
+            "date": "2025",
+            "location": "MyGov India Office, New Delhi, India",
+            "category": "Institutional Outreach & Digital Engagement",
+            "participants": "YOBHA and MyGov India representatives",
+            "status": "Completed",
+            "overview": [
+              "A delegation from the Youth of Bharat Foundation (YOBHA) visited the MyGov India office in New Delhi for a strategic discussion focused on strengthening youth outreach, digital engagement, and awareness of government initiatives.",
+              "YOBHA representatives engaged with the MyGov outreach and creative teams to explore opportunities for expanding youth participation through platforms such as MyGov Campus, Campus Content Creators, and MyGov Campus Societies.",
+              "YOBHA presented its vision for connecting young people with Union Government flagship programmes, strengthening awareness at campus and grassroots levels, and encouraging youth to become active participants in governance and nation-building.",
+              "The meeting opened avenues for potential collaboration around youth mobilisation, campus engagement, digital storytelling, content creation, and dissemination of public initiatives.",
+              "The engagement marked an important step towards building stronger institutional linkages and developing innovative platforms through which India's youth can participate in national development."
+            ],
+            "impact": [
+              "Institutional outreach",
+              "Youth mobilisation",
+              "Campus engagement",
+              "Digital participation",
+              "Government–youth connect",
+              "Strategic partnerships"
+            ],
+            "gallery": [
+              "/src/assets/images/Initiatives/YOBHAMyGovIndia/image2.jpg",
+              "/src/assets/images/Initiatives/YOBHAMyGovIndia/image1.jpg",
+              "/src/assets/images/Initiatives/YOBHAMyGovIndia/image3.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    "projects": {
+      "eyebrow": "Initiatives",
+      "title": "Projects",
+      "lead": "Time-bound pieces of work with a defined research question, a field component and a published output.",
+      "image": "/src/assets/images/ourWork/gallery5.jpg",
+      "intro": "Projects typically run six to eighteen months. Each begins with a scoping note and ends with a published report; interim findings are tested in closed roundtables before release."
+    },
+    "campaigns": {
+      "eyebrow": "Initiatives",
+      "title": "Campaigns",
+      "lead": "Public campaigns that carry research findings into communities, delivered with district administrations and partner institutions.",
+      "image": "/src/assets/images/bharatseries.jpg",
+      "intro": "Campaigns are the Foundation's public-facing arm. Each is grounded in a published finding and delivered through the volunteer corps in partnership with local administration."
+    },
+    "events": {
+      "eyebrow": "Initiatives",
+      "title": "Events",
+      "lead": "Roundtables, seminars and the annual Bharat Series — most open to students by registration.",
+      "image": "/src/assets/images/kheloIndiapara.jpg",
+      "intro": "The Foundation convenes throughout the year. Registration details are published four weeks in advance and reserved seats are held for students at every convening.",
+      "linkToEvents": true,
+      "items": []
+    },
+    "training": {
+      "eyebrow": "Initiatives",
+      "title": "Training",
+      "lead": "Structured training in research method, policy writing and data analysis for students, volunteers and partner staff.",
+      "image": "/src/assets/images/ourWork/youth2.jpg",
+      "intro": "Training is delivered as short intensive modules, both in person and online. Modules are open to volunteers, partner institution staff and students on request."
+    },
+    "awareness-drives": {
+      "eyebrow": "Initiatives",
+      "title": "Awareness Drives",
+      "lead": "Short, focused community drives run by the volunteer corps on issues our research has identified as underserved.",
+      "image": "/src/assets/images/ourWork/gallery5.jpg",
+      "intro": "Drives run for one to four weeks in a defined geography. Each is designed around a specific behaviour or entitlement, with outcomes recorded and reported."
+    },
+    "relief-operations": {
+      "eyebrow": "Initiatives",
+      "title": "Relief Operations",
+      "lead": "Coordinated volunteer response during disasters and emergencies, always under the direction of local authorities.",
+      "image": "/src/assets/images/about/y4.jpg",
+      "intro": "The Foundation does not lead relief operations. We mobilise trained volunteers in support of district administration and established relief agencies, and we publish an account of every deployment."
+    }
+  },
+  "upcomingEvents": [
+    {
+      "id": "khelo-india-para",
+      "status": "Registration open",
+      "title": "Khelo India Para Games Roundtable 2026",
+      "description": "A closed-door roundtable on para-sport infrastructure, athlete pathways and the policy architecture supporting adaptive sport in India.",
+      "date": "2026-09-18",
+      "displayDate": "18 September 2026",
+      "time": "10:00 – 13:00 IST",
+      "venue": "Visakhapatnam, Andhra Pradesh",
+      "format": "Roundtable",
+      "image": "/src/assets/images/kheloIndiapara.jpg"
+    },
+    {
+      "id": "budget-seminar",
+      "status": "Coming soon",
+      "title": "Seminar on the Union Budget 2026",
+      "description": "Narasimha Murthy leads a working seminar on the fiscal framing of the Union Budget and its implications for youth employment.",
+      "date": "2026-10-12",
+      "displayDate": "October 2026",
+      "time": "To be confirmed",
+      "venue": "New Delhi",
+      "format": "Seminar",
+      "image": "/src/assets/images/vikash.jpg"
+    },
+    {
+      "id": "bharat-series",
+      "status": "Save the date",
+      "title": "Bharat Series: Annual Policy Dialogue",
+      "description": "Our flagship day-long dialogue, convened with Hindu College at the Caucus Sanganeria Auditorium, bringing together scholars and practitioners.",
+      "date": "2027-03-16",
+      "displayDate": "16 March 2027",
+      "time": "10:00 – 17:00 IST",
+      "venue": "Hindu College, University of Delhi",
+      "format": "Conference",
+      "image": "/src/assets/images/bharatseries.jpg"
+    }
+  ],
+  "pastEvents": [
+    {
+      "id": "campus-dialogue",
+      "title": "Campus Policy Dialogue Series",
+      "displayDate": "2025 – 2026",
+      "venue": "Twelve universities",
+      "summary": "A travelling dialogue series taking policy questions directly to undergraduate campuses.",
+      "image": "/src/assets/images/ourWork/youth2.jpg"
+    },
+    {
+      "id": "nasha-mukt",
+      "title": "Nasha Mukt Yuva Abhiyan",
+      "displayDate": "2025",
+      "venue": "Six states",
+      "summary": "A youth-led awareness campaign on substance abuse, delivered with district administrations.",
+      "image": "/src/assets/images/ourWork/gallery5.jpg"
+    },
+    {
+      "id": "byud",
+      "title": "Bharat Youth Urban Dialogue",
+      "displayDate": "2025",
+      "venue": "New Delhi",
+      "summary": "An urban governance convening on municipal finance and city-level service delivery.",
+      "image": "/src/assets/images/about/y4.jpg"
+    },
+    {
+      "id": "volunteer-summit",
+      "title": "National Volunteer Summit",
+      "displayDate": "2024",
+      "venue": "Hyderabad",
+      "summary": "Bringing together volunteer coordinators from across the Foundation's state chapters.",
+      "image": "/src/assets/images/about_banner.jpg"
+    }
+  ],
+  "podcast": {
+    "eyebrow": "Podcast",
+    "title": "The Bharat Policy Conversation",
+    "lead": "Long-form conversations with researchers, administrators and practitioners about the decisions shaping India's next decade.",
+    "intro": "New episodes every second Thursday. Each runs forty to sixty minutes, is recorded unedited except for length, and is accompanied by a reading list drawn from our own archive.",
+    "platforms": [
+      "Spotify",
+      "Apple Podcasts",
+      "YouTube",
+      "RSS"
+    ],
+    "cover": "/src/assets/images/vikash.jpg"
+  },
+  "episodes": [
+    {
+      "id": "ep-12",
+      "number": "12",
+      "title": "What district administration actually does",
+      "guest": "A serving district magistrate",
+      "summary": "The gap between how policy is written in Delhi and how it lands in a district of four million people — staffing, budgets and the limits of the collector's office.",
+      "duration": "58 min",
+      "date": "14 August 2026",
+      "image": "/src/assets/images/about/y4.jpg",
+      "featured": true
+    },
+    {
+      "id": "ep-11",
+      "number": "11",
+      "title": "Learning outcomes and the measurement problem",
+      "guest": "Education researcher",
+      "summary": "Why national assessments and classroom reality diverge, and what a more honest measurement regime would look like.",
+      "duration": "51 min",
+      "date": "31 July 2026",
+      "image": "/src/assets/images/ourWork/youth2.jpg"
+    },
+    {
+      "id": "ep-10",
+      "number": "10",
+      "title": "The unicorn decade, reviewed",
+      "guest": "Venture investor and economist",
+      "summary": "A hundred unicorns later — what the start-up boom did for employment, and what it did not.",
+      "duration": "63 min",
+      "date": "17 July 2026",
+      "image": "/src/assets/images/vikash.jpg"
+    },
+    {
+      "id": "ep-09",
+      "number": "09",
+      "title": "Para-sport and the infrastructure question",
+      "guest": "Para-athlete and coach",
+      "summary": "Athlete pathways, accessible facilities and the policy architecture that either supports or blocks them.",
+      "duration": "45 min",
+      "date": "3 July 2026",
+      "image": "/src/assets/images/kheloIndiapara.jpg"
+    },
+    {
+      "id": "ep-08",
+      "number": "08",
+      "title": "Two point four billion dollars, thrown away",
+      "guest": "Agricultural economist",
+      "summary": "Cold chains, storage and the post-harvest losses India absorbs every year without much public argument.",
+      "duration": "49 min",
+      "date": "19 June 2026",
+      "image": "/src/assets/images/ourWork/gallery5.jpg"
+    },
+    {
+      "id": "ep-07",
+      "number": "07",
+      "title": "Reading a Union Budget properly",
+      "guest": "Public finance specialist",
+      "summary": "How to look past the headline numbers to the allocations that actually determine youth outcomes.",
+      "duration": "55 min",
+      "date": "5 June 2026",
+      "image": "/src/assets/images/bharatseries.jpg"
+    }
+  ],
+  "directory": {
+    "board-of-trustees": {
+      "kind": "people",
+      "eyebrow": "Governance",
+      "title": "Board of Trustees",
+      "lead": "The Board holds fiduciary responsibility for the Foundation, approves the annual budget and appoints the executive leadership.",
+      "intro": "Trustees are appointed for a three-year term and meet quarterly. The Board does not direct research findings; its remit is financial stewardship, statutory compliance and the appointment of the executive.",
+      "image": "/src/assets/images/about_banner.jpg",
+      "members": []
+    },
+    "governing-council": {
+      "kind": "people",
+      "eyebrow": "Governance",
+      "title": "Governing Council",
+      "lead": "The Council sets the research agenda each financial year and reviews published output against the Foundation's mandate.",
+      "intro": "Council members are drawn from academia, public administration and civil society. They meet twice a year and their review notes are summarised in the annual review.",
+      "image": "/src/assets/images/ourWork/youth2.jpg",
+      "members": []
+    },
+    "president": {
+      "kind": "profile",
+      "eyebrow": "Leadership",
+      "title": "President",
+      "lead": "The President sets the Foundation's research agenda and represents it before government, academic and international partners.",
+      "image": "/src/assets/images/about/y4.jpg",
+      "profiles": [
+        {
+          "id": "president-1",
+          "name": "NAME OF PRESIDENT",
+          "role": "PRESIDENT",
+          "portrait": "/src/assets/images/about/y4.jpg",
+          "biography": [
+            "The President is the Foundation's principal representative and chairs the internal research committee. The office is responsible for the intellectual direction of the Foundation's five verticals and for its relationships with government, universities and international partners.",
+            "The President serves a five-year term, appointed by the Board of Trustees, and reports to the Governing Council on the Foundation's published output each financial year."
+          ],
+          "responsibilities": [
+            "Sets the annual research agenda with the Governing Council",
+            "Chairs the internal review committee for all publications",
+            "Represents the Foundation before government and international partners",
+            "Appoints Distinguished Fellows on the Council's recommendation"
+          ]
+        }
+      ]
+    },
+    "executive-vice-president": {
+      "kind": "profile",
+      "eyebrow": "Leadership",
+      "title": "Executive Vice Presidents",
+      "lead": "The Executive Vice President oversees programme delivery, institutional partnerships and the Foundation's state chapters.",
+      "image": "/src/assets/images/vikash.jpg",
+      "profiles": [
+        {
+          "id": "evp-1",
+          "name": "NAME OF EXECUTIVE VICE PRESIDENT",
+          "role": "EXECUTIVE VICE PRESIDENT",
+          "portrait": "/src/assets/images/vikash.jpg",
+          "biography": [
+            "The Executive Vice President carries operational responsibility for programme delivery, field campaigns, convenings and the network of state chapters.",
+            "The office also manages institutional partnerships, from university collaborations to memoranda with government departments."
+          ],
+          "responsibilities": [
+            "Directs programme and field campaign delivery across states",
+            "Manages institutional partnerships and collaboration agreements",
+            "Oversees the volunteer corps and state chapter network",
+            "Reports on programme outcomes to the Board each quarter"
+          ]
+        }
+      ]
+    },
+    "director": {
+      "kind": "profile",
+      "eyebrow": "Leadership",
+      "title": "Directors",
+      "lead": "The Directors lead the Foundation's research, programmes and institutional functions across different areas of work.",
+      "image": "/src/assets/images/ourWork/youth2.jpg",
+      "profiles": [
+        {
+          "id": "director-1",
+          "name": "CHANDAN MATCHA",
+          "role": "FOUNDER & DIRECTOR",
+          "email": "chandanmatcha@youthofbharat.org",
+          "portrait": "/src/assets/images/about/Founder_director.jpg",
+          "biography": [
+            "The Director runs the research desk day to day: commissioning work, supervising fellows, and holding every draft to the Foundation's published method before it goes to advisory review.",
+            "The office is also responsible for research ethics, data governance and the open-publication commitment."
+          ],
+          "responsibilities": [
+            "Commissions and supervises all research projects",
+            "Mentors the research fellowship cohort",
+            "Enforces research ethics and data governance standards",
+            "Prepares the research section of the annual review"
+          ]
+        },
+        {
+          "id": "director-2",
+          "name": "JAMPANA RANGA RAJU",
+          "role": "CO - FOUNDER & DIRECTOR",
+          "email": "rangaraju.j@youthofbharat.org",
+          "portrait": "/src/assets/images/about/coFounder.png",
+          "biography": [
+            "The Director of Programmes oversees the planning and implementation of the Foundation's programmes and youth engagement initiatives.",
+            "The office coordinates programme teams and ensures that projects remain aligned with the Foundation's mission and institutional objectives."
+          ],
+          "responsibilities": [
+            "Leads programme planning and implementation",
+            "Coordinates programme teams",
+            "Monitors programme outcomes",
+            "Develops new youth engagement initiatives"
+          ]
+        },
+        {
+          "id": "director-3",
+          "name": "VIKRAM THAKUR",
+          "role": "OPERATIONS HEAD ",
+          "email": "youthofbharat.org@gmail.com",
+          "portrait": "/src/assets/images/about/OPERATIONS_HEAD.jpg",
+          "biography": [
+            "The Operations Head oversees the organisation’s day-to-day operations and ensures that internal processes, programmes and teams function efficiently. The office supports effective coordination, operational planning and smooth execution of organisational activities.",
+            "The office supports long-term collaboration and institutional engagement."
+          ],
+          "responsibilities": [
+            "Oversees day-to-day organisational operations",
+            "Coordinates internal teams and workflows",
+            "Supports programme and event execution",
+            "Ensures efficient administrative processes",
+            "Monitors operational planning and implementation"
+          ]
+        }
+      ]
+    },
+    "distinguished-fellows": {
+      "kind": "people",
+      "eyebrow": "Fellows",
+      "title": "Distinguished Fellows",
+      "lead": "Senior scholars and former practitioners who anchor a research vertical and mentor the cohort within it.",
+      "intro": "Distinguished Fellows are appointed by the President on the recommendation of the Governing Council. Each anchors one vertical, reviews its output and supervises the research fellows working within it.",
+      "image": "/src/assets/images/bharatseries.jpg",
+      "members": []
+    },
+    "research-fellows": {
+      "kind": "people",
+      "eyebrow": "Fellows",
+      "title": "Research Fellows",
+      "lead": "Full-time researchers appointed for a two-year term, each responsible for a defined line of enquiry.",
+      "intro": "Research Fellows publish under their own name. The fellowship is a salaried, full-time appointment and is open to graduates nationwide through an annual application round.",
+      "image": "/src/assets/images/about/y4.jpg",
+      "members": [
+        {
+          "name": "SANSKAR BAJAJ",
+          "role": "Event and Outreach Coordinator ",
+          "bio": "",
+          "image": "/src/assets/images/about/ResearchFellows/SANSKAR_BAJAJ.jpg"
+        },
+        {
+          "name": "SHREYA MAHAJAN",
+          "role": "Research Associate",
+          "bio": "",
+          "image": "/src/assets/images/about/ResearchFellows/SHREYA_MAHAJAN.jpg"
+        },
+        {
+          "name": "SHUBHIKA PATHAK",
+          "role": "Research Head",
+          "bio": "",
+          "image": "/src/assets/images/about/ResearchFellows/SHUBHIKA_PATHAK.jpg"
+        },
+        {
+          "name": "PARIKRITI SINGH",
+          "role": "HR Manager",
+          "bio": "",
+          "image": "/src/assets/images/about/ResearchFellows/PARIKRITI_SINGH%20.jpg"
+        },
+        {
+          "name": "POONAM AGGARWAL",
+          "role": "Research Associate",
+          "bio": "",
+          "image": "/src/assets/images/about/ResearchFellows/POONAM_AGGARWAL.png"
+        },
+        {
+          "name": "SEHAJ PREET KOUR",
+          "role": "Research Associate",
+          "bio": "",
+          "image": "/src/assets/images/about/ResearchFellows/SEHAJ_PREET_KOUR.png"
+        },
+        {
+          "name": "SAHANA ",
+          "role": "Research Associate",
+          "bio": "",
+          "image": "/src/assets/images/about/ResearchFellows/SAHANA%20.jpg"
+        }
+      ]
+    },
+    "visiting-fellows": {
+      "kind": "people",
+      "eyebrow": "Fellows",
+      "title": "Visiting Fellows",
+      "lead": "Academics and practitioners in residence for a fixed period, contributing to a specific project or convening.",
+      "intro": "Visiting Fellowships run from three to twelve months. Fellows retain their primary affiliation and contribute to one named project, usually culminating in a joint publication or convening.",
+      "image": "/src/assets/images/ourWork/gallery5.jpg",
+      "members": []
+    },
+    "centres": {
+      "kind": "prose",
+      "eyebrow": "The Foundation",
+      "title": "Centres",
+      "lead": "Specialist units within the Foundation, each with a standing research programme and its own convening calendar.",
+      "image": "/src/assets/images/vikash.jpg",
+      "body": [
+        "The Foundation organises its longer-running work into centres. A centre differs from a vertical in that it carries its own convening calendar, maintains standing relationships with a specific set of institutions, and often hosts visiting fellows for the duration of a project.",
+        "Centres publish under the Foundation's imprint and are subject to the same review process as any other output."
+      ],
+      "cards": [
+        {
+          "title": "Centre for Parliamentary Studies",
+          "description": "Legislative analysis and briefing material prepared for members of Parliament, state legislators and their research staff."
+        },
+        {
+          "title": "Centre for Education Policy",
+          "description": "Implementation research on the National Education Policy, learning outcomes and the education-to-employment transition."
+        },
+        {
+          "title": "Centre for Economic Enquiry",
+          "description": "Enterprise, formalisation, agricultural value chains and the fiscal choices behind India's growth path."
+        },
+        {
+          "title": "Centre for Public Health Systems",
+          "description": "District health infrastructure, out-of-pocket expenditure and programme evaluation."
+        },
+        {
+          "title": "Centre for Sustainability",
+          "description": "Climate commitments, clean energy transition and the urban waste economy."
+        },
+        {
+          "title": "Centre for Youth & Civic Life",
+          "description": "Youth participation in public life, volunteering, sport and civic education."
+        }
+      ]
+    }
+  },
+  "testimonials": [
+    {
+      "quote": "Youth of Bharat Foundation is doing meaningful work at the grassroots level by focusing on social awareness, education, youth empowerment, and community development. The organization appears dedicated to creating positive change in society through active participation and support for local communities. Its efforts to encourage young people to contribute toward nation-building and social service are appreciable. Overall, the foundation is making a positive impact by working closely with people at the ground level and addressing real community needs.",
+      "name": "Pratibha Kumari",
+      "role": "Intern"
+    },
+    {
+      "quote": "A place of intellectual growth and discipline.",
+      "name": "Praneeth Kuram",
+      "role": "Intern"
+    },
+    {
+      "quote": "My internship with YOBHA was a valuable learning experience. I had the opportunity to enhance my research skills and contribute meaningfully to projects. The team was supportive, and the environment encouraged growth and collaboration. I'm grateful for the exposure and guidance I received throughout the internship.",
+      "name": "B. Jothsna Chandra",
+      "role": "Research Intern"
+    },
+    {
+      "quote": "Working at YOBHA Foundation as a research intern was an incredibly enriching experience. I truly appreciated the supportive team and the meaningful impact of our projects. The opportunity to contribute to such important work while growing professionally was truly rewarding.",
+      "name": "Rohan Thakur",
+      "role": "Research Intern, Media & Communications"
+    },
+    {
+      "quote": "The finance internship was a great learning experience, which helped in doing market research, gaining knowledge, and practicing my Excel skills. The whole YOBHA team and my mentors were very supportive, cooperative, and always ready to coordinate throughout the journey. This experience will surely help me in my future work and career.",
+      "name": "Vansh Juneja",
+      "role": "Finance Intern"
+    },
+    {
+      "quote": "As a policy research intern, I gained valuable experience in data analysis, critical thinking, and academic writing. The supportive environment and meaningful work deepened my interest in public policy and social impact.",
+      "name": "Nandini Singhal",
+      "role": "Policy Research Intern"
+    },
+    {
+      "quote": "As a research intern, I gained valuable experience in data analysis, critical thinking, and academic writing. The internship enhanced my research skills and deepened my understanding of the subject. I’m grateful for the mentorship and support I received.",
+      "name": "Siddhi Goyal",
+      "role": "Research Intern"
+    },
+    {
+      "quote": "Interning as a Policy Research Intern with Youth of Bharat was an enriching and transformative experience. I had the opportunity to sharpen my research, critical thinking, and analytical skills by working on data-driven insights and youth-centric policy initiatives. The collaborative and intellectually stimulating environment allowed me to contribute meaningfully to projects aimed at driving social change. I also gained exposure to the policy-making process, from grassroots challenges to macro-level frameworks. This internship not only deepened my passion for public policy and governance but also strengthened my commitment to creating tangible social impact through evidence-based solutions.",
+      "name": "Preethaa Vijayakumar",
+      "role": "Policy Research Intern"
+    },
+    {
+      "quote": "Overall, this internship has been a rewarding experience, and I am grateful for the opportunity to contribute to the R&D initiatives of YOBHA.",
+      "name": "P. Atrika",
+      "role": "Research Intern"
+    },
+    {
+      "quote": "As an intern, I honed my research and analytical skills by producing clear, insightful briefs. I contributed proactively and learned to tailor findings for different audiences. YOBHA helped me to further improve time management and strategic framing.",
+      "name": "Vunnam Ramya Sri",
+      "role": "Research Intern"
+    },
+    {
+      "quote": "Working as an intern in YOBHA is a great experience and an opportunity that I've learnt so many things from the organization. This organization taught us new skills for upcoming future opportunities.",
+      "name": "Makkena Madhumitha",
+      "role": "Intern"
+    },
+    {
+      "quote": "As an intern, I had a great learning experience during my internship at YOBHA. I gained practical knowledge, improved my teamwork and communication skills, and learned from supportive mentors. This internship has strengthened my interest in pursuing a career in this field.",
+      "name": "Chintalapudi Chethana",
+      "role": "Intern"
+    },
+    {
+      "quote": "I am grateful for the opportunity to complete my internship at this organization. This experience has been incredibly valuable for my professional and personal development.",
+      "name": "Maddali Venkatesh Sai Lalitha RupaSri",
+      "role": "Intern"
+    },
+    {
+      "quote": "I learned a lot and had a great work experience with the YOBHA team. The research and development work was engaging. Thank you for the opportunity!",
+      "name": "Voleti Sri Chaitanya",
+      "role": "Intern"
+    },
+    {
+      "quote": "As a policy research intern, I acquired hands-on experience in data analysis, critical thinking, and academic writing in a supportive environment at YOBHA Foundation. The experience enhanced my understanding of public policy and its social implications.",
+      "name": "Diya Gupta",
+      "role": "Policy Research Intern"
+    },
+    {
+      "quote": "I had a very good learning experience with the organization. We get to learn new things with every session, and it has improved my research work too. We get so many opportunities from the organization, and I hope to get new opportunities in the future and give my best to Youth of Bharat.",
+      "name": "Sakshi Soni",
+      "role": "Intern"
+    },
+    {
+      "quote": "Working at YOBHA Foundation as a social media marketing intern and as a research intern, I enjoyed working with the team and the projects. This was a great opportunity for me to learn and improve my research skills, and it helped me connect with more people. Thank you for this opportunity, and I'm really grateful.",
+      "name": "Sakshi Shinde",
+      "role": "Social Media Marketing & Research Intern"
+    },
+    {
+      "quote": "This internship was a great learning opportunity for me as I made many good connections and learned how to do in-depth research and reporting. Thank you, Vikram Sir, for your guidance. Let's stay connected for future opportunities.",
+      "name": "Naksh Pratap Singh",
+      "role": "Research Intern"
+    }
+  ],
+  "heroMetrics": [
+    {
+      "value": 120,
+      "suffix": "+",
+      "label": "Research outputs published"
+    },
+    {
+      "value": 45,
+      "suffix": "",
+      "label": "Institutional partners"
+    },
+    {
+      "value": 18,
+      "suffix": "",
+      "label": "States engaged"
+    }
+  ],
+  "partners": [
+    "MyGov",
+    "My Bharat",
+    "Ministry of Youth Affairs & Sports",
+    "FIT India",
+    "Sports Authority of India",
+    "CMR",
+    "Banaras Hindu University",
+    "Department of Political Science Hindu College",
+    "UN Volunteers",
+    "KV Gole Market"
+  ],
+  "site": {
+    "name": "Youth of Bharat Foundation",
+    "shortName": "Youth of Bharat",
+    "abbr": "YOBHA",
+    "tagline": "A youth-led public policy research foundation",
+    "established": "2025",
+    "description": "An independent, non-partisan foundation advancing evidence-based public policy research and building the next generation of India's civic leadership."
+  },
+  "contact": {
+    "address": "B5/57, Humayunpur Road, Safdarjung Enclave, New Delhi 110029",
+    "addressLines": [
+      "B5/57, Humayunpur Road",
+      "Safdarjung Enclave",
+      "New Delhi 110029, India"
+    ],
+    "phone": "+91 94400 52222",
+    "phoneHref": "tel:+919440052222",
+    "email": "mail@youthofbharat.org",
+    "emailHref": "mailto:mail@youthofbharat.org",
+    "hours": "Monday – Friday, 10:00 – 18:00 IST",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.3029273902603!2d77.18991648692294!3d28.560664924113127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d0011dbcfd9%3A0x118ae792b5938558!2sSafdarjung%20Enclave!5e0!3m2!1sen!2sin!4v1766745437466!5m2!1sen!2sin"
+  },
+  "socials": [
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/"
+    },
+    {
+      "label": "X",
+      "href": "https://x.com/"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/"
+    },
+    {
+      "label": "YouTube",
+      "href": "https://www.youtube.com/"
+    }
+  ],
+  "values": [
+    {
+      "title": "Non-partisan by constitution",
+      "description": "The Foundation takes no party position. Our research is evaluated on method and evidence, never on political convenience."
+    },
+    {
+      "title": "Open by default",
+      "description": "Every report, brief and dataset we produce is published in full and made freely available to the public."
+    },
+    {
+      "title": "Rigorous over rapid",
+      "description": "We publish when a finding survives review. Peer scrutiny and advisory review precede every release."
+    },
+    {
+      "title": "Young people as authors",
+      "description": "Research is led by fellows in their twenties, supervised by senior practitioners. Authorship is credited, not absorbed."
+    }
+  ],
+  "milestones": [
+    {
+      "year": "2025",
+      "title": "Foundation established",
+      "description": "Registered in New Delhi as an independent research trust."
+    },
+    {
+      "year": "2025",
+      "title": "First research vertical",
+      "description": "The governance vertical publishes its inaugural set of issue briefs."
+    },
+    {
+      "year": "2025",
+      "title": "Bharat Series launched",
+      "description": "Our flagship annual policy dialogue convenes for the first time."
+    },
+    {
+      "year": "2025",
+      "title": "National field presence",
+      "description": "Programmes active across eighteen states and union territories."
+    },
+    {
+      "year": "2026",
+      "title": "Fellowship programme",
+      "description": "A structured research fellowship opens to graduates nationwide."
+    }
+  ]
+}
